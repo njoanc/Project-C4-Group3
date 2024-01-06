@@ -129,7 +129,7 @@
   left: 0;
 }
 
-.text-wrapper {
+.text-wrapper-1 {
   position: absolute;
   width: 123px;
   top: 0;
@@ -150,6 +150,8 @@
   top: 34px;
   left: 0;
 }
+
+
 
 .text-wrapper-2 {
   position: absolute;
