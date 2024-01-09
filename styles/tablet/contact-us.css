@@ -1,0 +1,352 @@
+/* Portrait tablets (smaller screens) */
+@media only screen and (min-width: 600px)  {
+  .contact-us {
+    width: 833px;
+    height: 1035px;
+    top: 3616px;
+    background-image: url(https://c.animaapp.com/pmEAYQr1/img/contact-bg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    left: 0;
+  }
+
+  .group-19 {
+    position: relative;
+    width: 792px;
+    height: 944px;
+    top: 30px;
+    left: 20px;
+  }
+
+  .text-wrapper-6 {
+    position: absolute;
+    width: 650px;
+    top: 0;
+    left: 72px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .on-the-other-hand-we {
+    position: absolute;
+    width: 723px;
+    top: 77px;
+    left: 35px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .group-20 {
+    position: absolute;
+    width: 788px;
+    height: 772px;
+    top: 172px;
+    left: 0;
+  }
+
+  .group-21 {
+    position: absolute;
+    width: 198px;
+    height: 75px;
+    top: 0;
+    left: 0;
+  }
+
+  .group-22 {
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    top: 0;
+    left: 0;
+  }
+
+  .text-wrapper-7 {
+    position: absolute;
+    width: 128px;
+    top: 0;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .line-3 {
+    width: 55px;
+    top: 28px;
+    position: absolute;
+    height: 12px;
+    left: 0;
+  }
+
+  .element {
+    position: absolute;
+    top: 44px;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .group-23 {
+    position: absolute;
+    width: 140px;
+    height: 80px;
+    top: 106px;
+    left: 0;
+  }
+
+  .group-24 {
+    position: absolute;
+    width: 142px;
+    height: 30px;
+    top: 0;
+    left: 0;
+  }
+
+  .text-wrapper-8 {
+    position: absolute;
+    width: 140px;
+    top: 0;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .group-25 {
+    position: absolute;
+    width: 108px;
+    height: 31px;
+    top: 49px;
+    left: 0;
+  }
+
+  .facebook-wrapper {
+    width: 30px;
+    height: 30px;
+    top: 1px;
+    border-radius: 15px;
+    position: absolute;
+    left: 0;
+    background-color: #ffffff;
+    border: 0.8px solid;
+    border-color: #000000;
+  }
+  .twitter-wrapper {
+    width: 30px;
+    height: 30px;
+    left: 39px;
+    border-radius: 15px;
+    position: absolute;
+    top: 0;
+    background-color: #ffffff;
+    border: 0.8px solid;
+    border-color: #000000;
+  }
+
+  .instagram-wrapper {
+    width: 30px;
+    height: 30px;
+    left: 78px;
+    border-radius: 15px;
+    position: absolute;
+    top: 0;
+    background-color: #ffffff;
+    border: 0.8px solid;
+    border-color: #000000;
+  }
+  .group-26 {
+    position: absolute;
+    width: 790px;
+    height: 547px;
+    top: 225px;
+    left: 0;
+  }
+
+  .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .overlap-group-wrapper {
+    position: absolute;
+    width: 787px;
+    height: 214px;
+    top: 245px;
+    left: 3px;
+  }
+
+  .overlap-group-2 {
+    position: relative;
+    width: 785px;
+    height: 214px;
+    background-color: #d9d9d9;
+  }
+
+  .text-wrapper-9 {
+    position: absolute;
+    top: 19px;
+    left: 73px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #2d2d2d;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .img-wrapper {
+    position: absolute;
+    width: 50px;
+    height: 55px;
+    top: 0;
+    left: 0;
+    background-color: #3f596c;
+    border-right-width: 0.7px;
+    border-right-style: solid;
+    border-color: #8b8b8b;
+  }
+
+  .img-3 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 15px;
+    left: 12px;
+  }
+
+  .group-wrapper {
+    position: absolute;
+    width: 370px;
+    height: 55px;
+    top: 148px;
+    left: 418px;
+  }
+  .group-27 {
+    position: absolute;
+    width: 360px;
+    height: 55px;
+    top: 0;
+    left: 0;
+  }
+  .text-wrapper-10 {
+    position: absolute;
+    width: 116px;
+    top: 17px;
+    left: 73px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .calendar {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 19px;
+    left: 340px;
+  }
+  .overlap-wrapper {
+    position: absolute;
+    width: 372px;
+    height: 55px;
+    top: 148px;
+    left: 0;
+  }
+  .div-2 {
+    width: 320px;
+    height: 55px;
+    left: 50px;
+    background-color: #d9d9d9;
+    position: absolute;
+    top: 0;
+  }
+  .text-wrapper-11 {
+    position: absolute;
+    top: 16px;
+    left: 23px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #2d2d2d;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .div-wrapper {
+    position: absolute;
+    width: 372px;
+    height: 55px;
+    top: 51px;
+    left: 418px;
+  }
+  .group-28 {
+    position: absolute;
+    width: 374px;
+    height: 55px;
+    top: 51px;
+    left: 0;
+  }
+  #div-wrapper {
+    position: absolute;
+    width: 320px;
+    height: 55px;
+    top: 0;
+    left: 52px;
+    background-color: #d9d9d9;
+  }
+  .group-29 {
+    position: absolute;
+    width: 194px;
+    height: 46px;
+    top: 501px;
+    left: 0;
+  }
+  .overlap-3 {
+    position: relative;
+    width: 192px;
+    height: 46px;
+    background-color: #c82424;
+    border-radius: 5px;
+  }
+  .text-wrapper-12 {
+    position: absolute;
+    width: 140px;
+    top: 16px;
+    left: 26px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+}

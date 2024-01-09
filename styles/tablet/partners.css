@@ -1,0 +1,116 @@
+/* Portrait tablets (smaller screens) */
+@media only screen and (min-width: 600px) {
+  .our-partners {
+    position: absolute;
+    width: 833px;
+    height: 356px;
+    top: 4651px;
+    left: 0;
+    background-color: #ffffff;
+  }
+
+  .group-13 {
+    position: relative;
+    width: 762px;
+    height: 196px;
+    top: 75px;
+    left: 36px;
+  }
+
+  .group-14 {
+    position: absolute;
+    width: 641px;
+    height: 112px;
+    top: 0;
+    left: 61px;
+  }
+
+  .group-15 {
+    position: absolute;
+    width: 91px;
+    height: 27px;
+    top: 0;
+    left: 275px;
+  }
+
+  .text-wrapper-5 {
+    position: absolute;
+    width: 89px;
+    top: 0;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #6c6c6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .line-2 {
+    width: 55px;
+    top: 24px;
+    position: absolute;
+    height: 12px;
+    left: 0;
+  }
+
+  .trusted-by-many {
+    position: absolute;
+    width: 639px;
+    top: 42px;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .group-16 {
+    position: absolute;
+    width: 762px;
+    height: 30px;
+    top: 166px;
+    left: 0;
+  }
+
+  .partner {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 0;
+    left: 204px;
+    object-fit: cover;
+  }
+
+  .partner-2 {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+
+  #partner-3 {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 0;
+    left: 612px;
+    object-fit: cover;
+  }
+
+  #partner-4 {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 0;
+    left: 408px;
+    object-fit: cover;
+  }
+}

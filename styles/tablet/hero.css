@@ -1,0 +1,139 @@
+@media only screen and (min-width: 600px) {
+    .hero {
+        position: absolute;
+        width: 838px;
+        height: 482px;
+        top: 131px;
+        left: 0;
+      }
+
+      .overlap-4 {
+        position: relative;
+        width: 834px;
+        height: 482px;
+        background-image: url(/public/images/hero-img.png);
+        background-size: cover;
+        background-position: 50% 50%;
+      }
+      .group-46 {
+        position: absolute;
+        width: 89px;
+        height: 25px;
+        top: 95px;
+        left: 23px;
+      }
+      
+      .text-wrapper-23 {
+        position: absolute;
+        width: 87px;
+        top: 0;
+        left: 0;
+        font-family: "Merriweather", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 14px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+      }
+      
+      .line-4 {
+        width: 73px;
+        top: 22px;
+        position: absolute;
+        height: 12px;
+        left: 0;
+      }
+      .it-s-our-pride-to{
+        position: absolute;
+        width: 348px;
+        top: 149px;
+        left: 23px;
+        font-family: "Merriweather", Helvetica;
+        font-weight: 700;
+        color: #ffffff;
+        font-size: 32px;
+        letter-spacing: 0;
+        line-height: normal;
+      }
+      .but-i-must-explain{
+        position: absolute;
+        top: 241px;
+        left: 23px;
+        font-family: "Merriweather", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 14px;
+        letter-spacing: 0;
+        line-height: normal;
+      }
+      .group-50 {
+        position: absolute;
+        width: 298px;
+        height: 38px;
+        top: 373px;
+        left: 23px;
+      }
+      .consulting-btn {
+        position: absolute;
+        width: 150px;
+        height: 38px;
+        top: 0;
+        left: 0;
+      }
+      
+      .overlap-group-3 {
+        position: relative;
+        width: 148px;
+        height: 38px;
+        background-color: #c82424;
+        border-radius: 5px;
+      }
+      .text-wrapper-18 {
+        position: absolute;
+        width: 113px;
+        top: 11px;
+        left: 18px;
+        font-family: "Merriweather", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 14px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+      }
+      .learn-more-btn {
+        all: unset;
+        box-sizing: border-box;
+        position: absolute;
+        width: 128px;
+        height: 38px;
+        top: 0;
+        left: 172px;
+      }
+      
+      .overlap-5 {
+        position: relative;
+        width: 126px;
+        height: 38px;
+        border-radius: 5px;
+        border: 1px solid;
+        border-color: #ffffff;
+      }
+      
+      .text-wrapper-24 {
+        position: absolute;
+        width: 80px;
+        top: 10px;
+        left: 22px;
+        font-family: "Merriweather", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 14px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+      }
+      
+      
+}
