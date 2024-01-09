@@ -3131,8 +3131,8 @@
     width: 834px;
     height: 582px;
     top: 613px;
-    left: 0;
-    background-color: #ffffff;
+    left: 0px;
+    background-color: rgb(255, 255, 255);
   }
 
   .group-42 {
@@ -3142,53 +3142,61 @@
     top: 37px;
     left: 29px;
   }
+  
 
-  .overlap-group-4 {
+  /* .overlap-group-4 {
     position: relative;
+    width: 778px;
     height: 523px;
-  }
+    top: 37px;
+    left: 29px;
+  } */
 
   .group-43 {
+      position: relative;
+      height: 523px;
+  }
+  .group45 {
     position: absolute;
     width: 778px;
     height: 254px;
     top: 269px;
-    left: 0;
-  }
-
-  .case {
-    position: absolute;
+    left: 0px;
+}
+.case {
+  position: absolute;
     width: 380px;
     height: 254px;
-    top: 0;
+    top: 0px;
     left: 398px;
-    background-color: #f9f9f9;
+    background-color: rgb(249, 249, 249);
     border-bottom-width: 0.5px;
     border-bottom-style: solid;
-    border-color: #cdc8c8;
-  }
-
+    border-color: rgb(205, 200, 200);
+}
+/* 
   .group-44 {
     position: relative;
     width: 278px;
     height: 179px;
     top: 36px;
     left: 52px;
-  }
+    
+  } */
 
   .text-wrapper-19 {
-    position: absolute;
-    top: 0;
-    left: 68px;
-    font-family: "Merriweather", Helvetica;
+    left: 66px;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #000000;
+    color: rgb(0, 0, 0);
     font-size: 18px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
+    position: absolute;
+    top: 0px;
   }
 
-  .img-4 {
+  .img-4 {   
     position: absolute;
     width: 50px;
     height: 50px;
@@ -3210,15 +3218,21 @@
   .expert {
     width: 380px;
     height: 254px;
-    left: 0;
-    background-color: #f9f9f9;
+    left: 0px;
+    background-color: rgb(249, 249, 249);
     border-bottom-width: 0.5px;
     border-bottom-style: solid;
-    border-color: #cdc8c8;
     position: absolute;
-    top: 0;
+    top: 0px;
+    border-color: rgb(205, 200, 200);
   }
-
+#group-44{
+  position: relative;
+  width: 278px;
+  height: 179px;
+  top: 36px;
+  left: 52px;
+}
   .text-wrapper-20 {
     left: 66px;
     font-family: "Merriweather", Helvetica;
@@ -3230,22 +3244,23 @@
     position: absolute;
     top: 0;
   }
-  #group-47 {
+  /* #group-47 {
     position: absolute;
     width: 778px;
     height: 254px;
     top: 0;
     left: 0;
-  }
+  } */
   .document {
     width: 380px;
     height: 254px;
     left: 398px;
-    background-color: #f9f9f9;
+    background-color: rgb(249, 249, 249);
     position: absolute;
-    top: 0;
+    top: 0px;
+    bottom: 100px;
   }
-  .group-45 {
+  #group-45 {
     position: relative;
     width: 278px;
     height: 179px;
@@ -3553,7 +3568,11 @@
     left: 45px;
   }
   .group-47 {
-    height: 51px;
+    position: absolute;
+    width: 778px;
+    height: 254px;
+    top: 0px;
+    left: 0px;
   }
   .overlap-6 {
     position: relative;
