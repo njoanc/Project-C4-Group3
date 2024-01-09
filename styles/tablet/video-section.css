@@ -1,0 +1,123 @@
+@media only screen and (min-width: 600px) {
+  .video-section {
+    position: absolute;
+    width: 834px;
+    height: 956px;
+    top: 2577px;
+    left: 7px;
+    background-color: #ffffff;
+  }
+
+  .group-30 {
+    position: relative;
+    width: 638px;
+    height: 789px;
+    top: 84px;
+    left: 98px;
+  }
+
+  .group-31 {
+    position: absolute;
+    width: 637px;
+    height: 423px;
+    top: 0;
+    left: 1px;
+    background-color: #c82424;
+    border-radius: 5px;
+  }
+
+  .group-32 {
+    position: relative;
+    width: 570px;
+    height: 331px;
+    top: 46px;
+    left: 38px;
+  }
+
+  .we-fight-for-right {
+    position: absolute;
+    width: 561px;
+    top: 0;
+    left: 1px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .at-vero-eos-et-2 {
+    width: 520px;
+    top: 103px;
+    left: 1px;
+    color: #f4d3d5;
+    position: absolute;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .signature {
+    position: absolute;
+    width: 96px;
+    height: 39px;
+    top: 202px;
+    left: 1px;
+    object-fit: cover;
+  }
+
+  .text-wrapper-13 {
+    position: absolute;
+    top: 268px;
+    left: 1px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .senior-attorney {
+    position: absolute;
+    top: 313px;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .video-icon-wrapper {
+    position: absolute;
+    width: 637px;
+    height: 325px;
+    top: 464px;
+    left: 0;
+    background-image: url(/public/images/video-img.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+  .video-icon {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    top: 123px;
+    left: 279px;
+    background-color: #c82424;
+    border-radius: 40px;
+  }
+
+  .triangle {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 28px;
+    left: 28px;
+  }
+}

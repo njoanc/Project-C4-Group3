@@ -1,0 +1,159 @@
+@media only screen and (min-width: 600px) {
+  .card-content {
+    position: absolute;
+    width: 834px;
+    height: 582px;
+    top: 613px;
+    left: 0;
+    background-color: #ffffff;
+  }
+
+  .group-42 {
+    position: relative;
+    width: 778px;
+    height: 523px;
+    top: 37px;
+    left: 29px;
+  }
+
+  .overlap-group-4 {
+    position: relative;
+    height: 523px;
+  }
+
+  .group-43 {
+    position: absolute;
+    width: 778px;
+    height: 254px;
+    top: 269px;
+    left: 0;
+  }
+
+  .case {
+    position: absolute;
+    width: 380px;
+    height: 254px;
+    top: 0;
+    left: 398px;
+    background-color: #f9f9f9;
+    border-bottom-width: 0.5px;
+    border-bottom-style: solid;
+    border-color: #cdc8c8;
+  }
+
+  .group-44 {
+    position: relative;
+    width: 278px;
+    height: 179px;
+    top: 36px;
+    left: 52px;
+  }
+
+  .text-wrapper-19 {
+    position: absolute;
+    top: 0;
+    left: 68px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .img-4 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 49px;
+    left: 112px;
+  }
+
+  .at-vero-eos-et-3 {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .expert {
+    width: 380px;
+    height: 254px;
+    left: 0;
+    background-color: #f9f9f9;
+    border-bottom-width: 0.5px;
+    border-bottom-style: solid;
+    border-color: #cdc8c8;
+    position: absolute;
+    top: 0;
+  }
+
+  .text-wrapper-20 {
+    left: 66px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  #group-47 {
+    position: absolute;
+    width: 778px;
+    height: 254px;
+    top: 0;
+    left: 0;
+  }
+  .document {
+    width: 380px;
+    height: 254px;
+    left: 398px;
+    background-color: #f9f9f9;
+    position: absolute;
+    top: 0;
+  }
+  .group-45 {
+    position: relative;
+    width: 278px;
+    height: 179px;
+    top: 37px;
+    left: 53px;
+  }
+  .text-wrapper-21 {
+    left: 56px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  .court {
+    width: 380px;
+    height: 254px;
+    left: 0;
+    background-color: #f9f9f9;
+    position: absolute;
+    top: 0;
+  }
+
+  .text-wrapper-22 {
+    left: 52px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+}

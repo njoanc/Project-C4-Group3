@@ -1,0 +1,269 @@
+@media only screen and (min-width: 600px)  {
+  .header {
+    position: absolute;
+    width: 834px;
+    height: 131px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+  }
+
+  .menu-bar {
+    position: absolute;
+    width: 834px;
+    height: 81px;
+    top: 50px;
+    left: 0;
+    background-color: #ffffff;
+    border-top-width: 0.5px;
+    border-top-style: solid;
+    border-color: #d9d9d9;
+  }
+  .group-84 {
+    position: relative;
+    width: 763px;
+    height: 58px;
+    top: 10px;
+    left: 36px;
+  }
+
+  .logo {
+    position: absolute;
+    width: 120px;
+    height: 58px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  .group-57 {
+    display: block;
+    position: absolute;
+    width: 422px;
+    height: 18px;
+    top: 20px;
+    left: 353px;
+  }
+  #text-wrapper-40 {
+    top: 0;
+    left: 0;
+    color: #000000;
+    position: absolute;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  #text-wrapper-41 {
+    left: 61px;
+    color: #000000;
+    font-size: 14px;
+    position: absolute;
+    top: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .text-wrapper2 {
+    left: 143px;
+    color: #000000;
+    font-size: 14px;
+    position: absolute;
+    top: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper3 {
+    position: absolute;
+    top: 0;
+    left: 219px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper4 {
+    top: 0;
+    left: 277px;
+    color: #000000;
+    position: absolute;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper5 {
+    position: absolute;
+    top: 0;
+    left: 350px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .menu {
+    display: none;
+  }
+  .top-bar {
+    position: absolute;
+    width: 744px;
+    height: 51px;
+    top: 0;
+    left: 45px;
+  }
+  .group-47 {
+    height: 51px;
+  }
+  .overlap-6 {
+    position: relative;
+    width: 744px;
+    height: 51px;
+  }
+  .top-contact {
+    position: absolute;
+    width: 319px;
+    height: 20px;
+    top: 15px;
+    left: 0;
+  }
+  .email {
+    position: absolute;
+    width: 182px;
+    height: 20px;
+    top: 0;
+    left: 0;
+  }
+
+  .azubiafrica {
+    position: absolute;
+    width: 152px;
+    top: 2px;
+    left: 28px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+
+  .phone {
+    position: absolute;
+    width: 126px;
+    height: 20px;
+    top: 0;
+    left: 195px;
+  }
+  .text-wrapper-25 {
+    position: absolute;
+    width: 96px;
+    top: 2px;
+    left: 28px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .button-links {
+    position: absolute;
+    width: 251px;
+    height: 51px;
+    top: 0;
+    left: 493px;
+  }
+
+  .header-social-links {
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    top: 15px;
+    left: 0;
+  }
+  .group-53 {
+    width: 20px;
+    height: 20px;
+    top: 0;
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    background-color: #ffffff;
+    border: 0.8px solid;
+    border-color: #000000;
+  }
+
+  .img-5 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 4px;
+    left: 4px;
+  }
+
+  .group-48 {
+    width: 20px;
+    height: 20px;
+    left: 25px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    background-color: #ffffff;
+    border: 0.8px solid;
+    border-color: #000000;
+  }
+
+  .group-49 {
+    width: 20px;
+    height: 20px;
+    left: 50px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    background-color: #ffffff;
+    border: 0.8px solid;
+    border-color: #000000;
+  }
+
+  .get-a-schedule-btn {
+    position: absolute;
+    width: 150px;
+    height: 51px;
+    top: 0;
+    left: 103px;
+  }
+
+  .overlap-group-5 {
+    position: relative;
+    width: 148px;
+    height: 51px;
+    background-color: #c82424;
+  }
+
+  .text-wrapper-26 {
+    position: absolute;
+    width: 85px;
+    top: 17px;
+    left: 32px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+}
