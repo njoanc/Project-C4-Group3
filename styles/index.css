@@ -618,82 +618,86 @@
 }
 
 .contact-us {
-  width: 430px;
-  height: 1128px;
+  width: 833px;
+  height: 1035px;
+  top: 3616px;
   background-image: url(/public/images/contact-bg.png);
   background-size: cover;
-  background-position: 50% 50%;
   position: absolute;
-  top: 0;
-  left: 0;
+  left: 0px;
+  background-position: 50% 50%;
 }
 
 .group-19 {
   position: relative;
-  width: 388px;
-  height: 1042px;
+  width: 792px;
+  height: 944px;
   top: 30px;
   left: 20px;
 }
 
 .text-wrapper-6 {
   position: absolute;
-  top: 0;
-  left: 0;
-  font-family: "Merriweather", Helvetica;
+  width: 650px;
+  top: 0px;
+  left: 72px;
+  font-family: Merriweather, Helvetica;
   font-weight: 400;
-  color: #ffffff;
-  font-size: 18px;
-  letter-spacing: 0;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0px;
   line-height: normal;
 }
 
 .on-the-other-hand-we {
   position: absolute;
+  width: 723px;
   top: 77px;
-  left: 0;
-  font-family: "Merriweather", Helvetica;
+  left: 35px;
+  font-family: Merriweather, Helvetica;
   font-weight: 400;
-  color: #ffffff;
-  font-size: 13px;
-  letter-spacing: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  letter-spacing: 0px;
   line-height: normal;
 }
 
 .group-20 {
   position: absolute;
-  width: 381px;
-  height: 870px;
+  width: 788px;
+  height: 772px;
   top: 172px;
-  left: 0;
+  left: 0px;
 }
 
 .group-21 {
   position: absolute;
-  width: 144px;
-  height: 67px;
-  top: 0;
-  left: 0;
+  width: 198px;
+  height: 75px;
+  top: 0px;
+  left: 0px;
 }
 
 .group-22 {
   position: absolute;
-  width: 113px;
+  width: 130px;
   height: 30px;
-  top: 0;
+  top: 0px;
+  left: 0px;
   left: 0;
 }
 
 .text-wrapper-7 {
   position: absolute;
-  width: 111px;
-  top: 0;
-  left: 0;
-  font-family: "Merriweather", Helvetica;
+  width: 128px;
+  top: 0px;
+  left: 0px;
+  font-family: Merriweather, Helvetica;
   font-weight: 400;
-  color: #ffffff;
-  font-size: 15px;
-  letter-spacing: 0;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  letter-spacing: 0px;
   line-height: normal;
   white-space: nowrap;
 }
@@ -709,12 +713,12 @@
 .element {
   position: absolute;
   top: 44px;
-  left: 0;
-  font-family: "Merriweather", Helvetica;
+  left: 0px;
+  font-family: Merriweather, Helvetica;
   font-weight: 400;
-  color: #ffffff;
-  font-size: 18px;
-  letter-spacing: 0;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  letter-spacing: 0px;
   line-height: normal;
 }
 
@@ -1792,16 +1796,16 @@
     width: 834px;
     height: 698px;
     top: 5007px;
-    left: 0;
-    background-color: transparent;
+    left: 0px;
+    background-color: #0f3041;
   }
 
   .group {
     position: absolute;
-    width: 419px;
-    height: 612px;
-    top: 1px;
-    left: 0;
+    width: 834px;
+    height: 623px;
+    top: 0px;
+    left: 0px;
   }
 
   .logo-white {
@@ -1828,7 +1832,7 @@
     position: absolute;
     width: 108px;
     height: 31px;
-    top: 302px;
+    top: 318px;
     left: 23px;
   }
 
@@ -1876,14 +1880,6 @@
     border-color: #000000;
   }
 
-  .group-11 {
-    position: absolute;
-    width: 129px;
-    height: 212px;
-    top: 367px;
-    left: 23px;
-  }
-
   .group-12 {
     position: absolute;
     width: 87px;
@@ -1896,7 +1892,7 @@
     position: absolute;
     width: 417px;
     height: 613px;
-    top: 0;
+    top: 0px;
     left: 417px;
   }
   .group-4 {
@@ -1911,19 +1907,19 @@
     position: absolute;
     width: 125px;
     height: 36px;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
   }
   .text-wrapper-1 {
     position: absolute;
     width: 123px;
-    top: 0;
-    left: 0;
-    font-family: "Merriweather", Helvetica;
+    top: 0px;
+    left: 0px;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 20px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
     white-space: nowrap;
   }
@@ -1931,12 +1927,12 @@
     width: 42px;
     top: 57px;
     left: 3px;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     position: absolute;
-    font-family: "Merriweather", Helvetica;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
     font-size: 14px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
   }
 
@@ -1945,11 +1941,11 @@
     width: 69px;
     top: 84px;
     left: 3px;
-    font-family: "Merriweather", Helvetica;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 14px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
   }
 
@@ -1958,11 +1954,11 @@
     width: 90px;
     top: 112px;
     left: 3px;
-    font-family: "Merriweather", Helvetica;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 14px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
   }
 
@@ -1971,11 +1967,11 @@
     width: 79px;
     top: 140px;
     left: 3px;
-    font-family: "Merriweather", Helvetica;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 14px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
   }
 
@@ -1984,11 +1980,11 @@
     width: 62px;
     top: 168px;
     left: 3px;
-    font-family: "Merriweather", Helvetica;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 14px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
   }
 
@@ -1997,11 +1993,11 @@
     width: 103px;
     top: 196px;
     left: 3px;
-    font-family: "Merriweather", Helvetica;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 14px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
   }
   .group-6 {
@@ -2015,19 +2011,19 @@
     position: absolute;
     width: 125px;
     height: 36px;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
   }
   .text-wrapper-3 {
     position: absolute;
     width: 123px;
-    top: 0;
-    left: 0;
-    font-family: "Merriweather", Helvetica;
+    top: 0px;
+    left: 0px;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 20px;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
     white-space: nowrap;
   }
@@ -2036,16 +2032,17 @@
     width: 228px;
     height: 83px;
     top: 57px;
-    left: 0;
+    left: 0px;
   }
 
   .group-8 {
     position: absolute;
     width: 145px;
     height: 20px;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
   }
+ 
   .home-6 {
     position: absolute;
     width: 112px;
@@ -2118,22 +2115,22 @@
     position: absolute;
     width: 87px;
     height: 36px;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
   }
 
   .text-wrapper-3 {
     width: 85px;
-    left: 0;
-    color: #ffffff;
+    left: 0px;
+    color: rgb(255, 255, 255);
     font-size: 20px;
-    white-space: nowrap;
     position: absolute;
-    top: 0;
-    font-family: "Merriweather", Helvetica;
+    top: 0px;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
+    white-space: nowrap;
   }
   .home-8 {
     position: absolute;
@@ -2248,12 +2245,13 @@
 /* Portrait tablets (smaller screens) */
 @media only screen and (min-width: 600px) {
   .our-partners {
+    display: block;
     position: absolute;
     width: 833px;
     height: 356px;
     top: 4651px;
-    left: 0;
-    background-color: #ffffff;
+    left: 0px;
+    background-color: rgb(255, 255, 255);
   }
 
   .group-13 {
@@ -2278,6 +2276,14 @@
     height: 27px;
     top: 0;
     left: 275px;
+  }
+
+  .group-18 {
+    position: absolute;
+    width: 359px;
+    height: 30px;
+    top: 3px;
+    left: 0;
   }
 
   .text-wrapper-5 {
@@ -2306,13 +2312,13 @@
     position: absolute;
     width: 639px;
     top: 42px;
-    left: 0;
-    font-family: "Merriweather", Helvetica;
+    left: 0px;
+    font-family: Merriweather, Helvetica;
     font-weight: 400;
-    color: #000000;
+    color: rgb(0, 0, 0);
     font-size: 28px;
     text-align: center;
-    letter-spacing: 0;
+    letter-spacing: 0px;
     line-height: normal;
     white-space: nowrap;
   }
@@ -2323,6 +2329,9 @@
     height: 30px;
     top: 166px;
     left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
 
   .partner {
@@ -2908,15 +2917,16 @@
 
   .on-the-other-hand-we-2 {
     position: absolute;
-    width: 713px;
-    top: 158px;
+    width: 617px;
+    top: 150px;
     left: 0;
     font-family: "Merriweather", Helvetica;
     font-weight: 400;
     color: #6c6c6c;
-    font-size: 16px;
+    font-size: 13px;
     letter-spacing: 0;
     line-height: normal;
+    white-space: nowrap;
   }
   .list-items {
     position: absolute;
@@ -3143,7 +3153,6 @@
     top: 37px;
     left: 29px;
   }
-  
 
   /* .overlap-group-4 {
     position: relative;
@@ -3154,8 +3163,8 @@
   } */
 
   .group-43 {
-      position: relative;
-      height: 523px;
+    position: relative;
+    height: 523px;
   }
   .group45 {
     position: absolute;
@@ -3163,9 +3172,9 @@
     height: 254px;
     top: 269px;
     left: 0px;
-}
-.case {
-  position: absolute;
+  }
+  .case {
+    position: absolute;
     width: 380px;
     height: 254px;
     top: 0px;
@@ -3174,8 +3183,8 @@
     border-bottom-width: 0.5px;
     border-bottom-style: solid;
     border-color: rgb(205, 200, 200);
-}
-/* 
+  }
+  /* 
   .group-44 {
     position: relative;
     width: 278px;
@@ -3197,7 +3206,7 @@
     top: 0px;
   }
 
-  .img-4 {   
+  .img-4 {
     position: absolute;
     width: 50px;
     height: 50px;
@@ -3227,13 +3236,13 @@
     top: 0px;
     border-color: rgb(205, 200, 200);
   }
-#group-44{
-  position: relative;
-  width: 278px;
-  height: 179px;
-  top: 36px;
-  left: 52px;
-}
+  #group-44 {
+    position: relative;
+    width: 278px;
+    height: 179px;
+    top: 36px;
+    left: 52px;
+  }
   .text-wrapper-20 {
     left: 66px;
     font-family: "Merriweather", Helvetica;
@@ -3245,7 +3254,7 @@
     position: absolute;
     top: 0;
   }
- 
+
   .document {
     width: 380px;
     height: 254px;
@@ -3304,14 +3313,12 @@
   }
 
   .overlap-4 {
-      position: relative;
-      width: 100%; /* Make the element take the full width of its container */
-      height: 482px;
-      background-image: url(/public/images/hero-img.png);
-      background-size: cover;
-      /* background-position: 50% 50%; */
-    
-    
+    position: relative;
+    width: 100%; /* Make the element take the full width of its container */
+    height: 482px;
+    background-image: url(/public/images/hero-img.png);
+    background-size: cover;
+    /* background-position: 50% 50%; */
   }
   .group-46 {
     position: absolute;
@@ -3409,7 +3416,6 @@
     border-radius: 5px;
     border: 1px;
     background-color: transparent;
-    
   }
 
   .overlap-5 {
@@ -3435,7 +3441,6 @@
     letter-spacing: 0;
     line-height: normal;
     white-space: nowrap;
-   
   }
 }
 
