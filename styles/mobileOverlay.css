@@ -1,0 +1,108 @@
+.box {
+    height: 6158px;
+    width: 430px;
+}
+
+.box .overlay {
+    background-color: #000000eb;
+    height: 6158px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 430px;
+}
+
+.box .group {
+    height: 535px;
+    left: 27px;
+    position: relative;
+    top: 54px;
+    width: 375px;
+}
+
+.box .x {
+    height: 40px;
+    left: 327px;
+    position: absolute;
+    top: 0;
+    width: 40px;
+}
+
+.box .div {
+    background-color: #ffffff;
+    height: 444px;
+    left: 0;
+    position: absolute;
+    top: 91px;
+    width: 375px;
+}
+
+.box .overlap-group-wrapper {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 370px;
+    width: 377px;
+}
+
+.box .overlap-group {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-color: #6c6c6c;
+    height: 74px;
+    position: relative;
+    width: 375px;
+}
+
+.box .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+}
+
+.box .overlap-wrapper {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 296px;
+    width: 377px;
+}
+
+.box .div-wrapper {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 222px;
+    width: 377px;
+}
+
+.box .group-2 {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 148px;
+    width: 377px;
+}
+
+.box .group-3 {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 74px;
+    width: 377px;
+}
+
+.box .group-4 {
+    height: 74px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 377px;
+}
